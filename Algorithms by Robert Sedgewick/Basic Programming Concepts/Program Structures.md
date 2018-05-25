@@ -14,5 +14,3 @@ The following components are used to in many of Java programs and in many other 
 3. Arrays
 4. Static methods, help in encapsulation and code reuse.
 5. Input/Output
-
-### Primitive Datatypes
